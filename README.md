@@ -2,7 +2,7 @@
 
 **INICIANTE BUSCANDO UMA OPORTUNIDADE**
 
-Pode me chamar de Zé, sou iniciante nesse mundo do TI e aqui vou postar meus projetos e conteudos até conseguir iniciar na área. 
+ Sou iniciante nesse mundo do TI e aqui vou postar meus projetos e conteudos até conseguir iniciar na área. 
 
 ---
 
