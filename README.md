@@ -73,13 +73,9 @@ Tenho experiência com organização, disciplina e constância  valores que trag
 - Foco em resultados
 - Resolução de problemas
 
----
-
-## 📫 Contato
-
-- 💼 LinkedIn: *(https://www.linkedin.com/in/jos%C3%A9-hoschett-342741165/)*
 
 
----
+
+
 
 
