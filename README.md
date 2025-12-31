@@ -2,7 +2,7 @@
 
 **INICIANTE BUSCANDO UMA OPORTUNIDADE**
 
- Sou iniciante nesse mundo do TI e aqui vou postar meus projetos e conteudos até conseguir iniciar na área. 
+ Sou iniciante nesse mundo do TI e aqui vou postar meus projetos até conseguir iniciar na área. 
 
 ---
 
