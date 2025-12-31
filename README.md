@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o José Hoschett
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-📊 Em transição de carreira para **Análise de Dados / BI / Tecnologia**  
+📊 Em transição de carreira para
 🚀 Focado em evolução contínua, disciplina e construção de projetos reais  
 
 ---
@@ -11,7 +11,7 @@
 Sou um profissional em transição para a área de tecnologia, com forte base analítica, raciocínio lógico e mentalidade orientada a resultados.  
 Atualmente estudo desenvolvimento, dados e automação, aplicando o aprendizado em projetos práticos voltados para **análise de dados, programação e otimização de processos**.
 
-Tenho experiência com organização, disciplina e constância — valores que trago tanto da minha rotina pessoal quanto da minha trajetória profissional.
+Tenho experiência com organização, disciplina e constância  valores que trago tanto da minha rotina pessoal quanto da minha trajetória profissional.
 
 ---
 
@@ -20,14 +20,13 @@ Tenho experiência com organização, disciplina e constância — valores que t
 ### Linguagens
 - Python
 - SQL
-- C
+- C#
 - JavaScript
-- HTML5 | CSS3
-- PHP (básico)
+- HTML| CSS
+
 
 ### Dados & BI
 - Análise de Dados
-- Manipulação de dados
 - Consultas SQL
 - Lógica analítica
 - Visualização de dados (conceitos)
@@ -36,13 +35,13 @@ Tenho experiência com organização, disciplina e constância — valores que t
 - Lógica de Programação
 - Estruturas de Dados
 - Paradigmas de Programação
-- Desenvolvimento Web
+
 
 ### Ferramentas
 - Git & GitHub
 - VS Code
 - Excel / Planilhas Automatizadas
-- Power BI (em aprendizado)
+- Power BI (Iniciante)
 
 ---
 
@@ -53,27 +52,15 @@ Tenho experiência com organização, disciplina e constância — valores que t
 - 🤖 Inteligência Artificial (base e fundamentos)
 - ⚙️ Automação de Processos
 - 🌐 Desenvolvimento Web
-- 📂 Projetos Data-Driven
+
 
 ---
 
 ## 🚀 Objetivos
 
 - Conquistar minha **primeira oportunidade na área de tecnologia**
-- Construir um **portfólio sólido com projetos práticos**
-- Evoluir tecnicamente em **Python, SQL e BI**
-- Atuar profissionalmente como **Analista de Dados / BI**
-
----
-
-## 📚 Projetos em desenvolvimento
-
-- 📊 Análises de dados com Python e SQL
-- ⚙️ Automação de tarefas e planilhas
-- 🌐 Projetos web acadêmicos
-- 📈 Dashboards e estudos de dados
-
-*(Em breve disponíveis aqui no GitHub)*
+- Evoluir tecnicamente
+- Atuar profissionalmente
 
 ---
 
@@ -90,10 +77,9 @@ Tenho experiência com organização, disciplina e constância — valores que t
 
 ## 📫 Contato
 
-- 💼 LinkedIn: *(adicione seu link aqui)*
-- 📧 Email: *(opcional)*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/jos%C3%A9-hoschett-342741165/)*
+
 
 ---
 
-⭐ *Sempre aberto a aprender, evoluir e contribuir com projetos reais.*
 
