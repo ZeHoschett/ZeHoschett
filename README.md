@@ -1,46 +1,99 @@
-#  José Francisco Hoschett Morales De Oliveira 
+# 👋 Olá, eu sou o José Hoschett
 
-**INICIANTE BUSCANDO UMA OPORTUNIDADE**
-
- Sou iniciante nesse mundo do TI e aqui vou postar meus projetos até conseguir iniciar na área. 
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+📊 Em transição de carreira para **Análise de Dados / BI / Tecnologia**  
+🚀 Focado em evolução contínua, disciplina e construção de projetos reais  
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🧠 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+Sou um profissional em transição para a área de tecnologia, com forte base analítica, raciocínio lógico e mentalidade orientada a resultados.  
+Atualmente estudo desenvolvimento, dados e automação, aplicando o aprendizado em projetos práticos voltados para **análise de dados, programação e otimização de processos**.
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+Tenho experiência com organização, disciplina e constância — valores que trago tanto da minha rotina pessoal quanto da minha trajetória profissional.
 
-<br/>
-<br/>
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### Linguagens
+- Python
+- SQL
+- C
+- JavaScript
+- HTML5 | CSS3
+- PHP (básico)
+
+### Dados & BI
+- Análise de Dados
+- Manipulação de dados
+- Consultas SQL
+- Lógica analítica
+- Visualização de dados (conceitos)
+
+### Desenvolvimento
+- Lógica de Programação
+- Estruturas de Dados
+- Paradigmas de Programação
+- Desenvolvimento Web
+
+### Ferramentas
+- Git & GitHub
+- VS Code
+- Excel / Planilhas Automatizadas
+- Power BI (em aprendizado)
+
+---
+
+## 📌 Áreas de Interesse
+
+- 📊 Análise de Dados
+- 📈 Business Intelligence (BI)
+- 🤖 Inteligência Artificial (base e fundamentos)
+- ⚙️ Automação de Processos
+- 🌐 Desenvolvimento Web
+- 📂 Projetos Data-Driven
+
+---
+
+## 🚀 Objetivos
+
+- Conquistar minha **primeira oportunidade na área de tecnologia**
+- Construir um **portfólio sólido com projetos práticos**
+- Evoluir tecnicamente em **Python, SQL e BI**
+- Atuar profissionalmente como **Analista de Dados / BI**
+
+---
+
+## 📚 Projetos em desenvolvimento
+
+- 📊 Análises de dados com Python e SQL
+- ⚙️ Automação de tarefas e planilhas
+- 🌐 Projetos web acadêmicos
+- 📈 Dashboards e estudos de dados
+
+*(Em breve disponíveis aqui no GitHub)*
+
+---
+
+## 💡 Soft Skills
+
+- Pensamento analítico
+- Disciplina e constância
+- Organização
+- Aprendizado rápido
+- Foco em resultados
+- Resolução de problemas
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: *(adicione seu link aqui)*
+- 📧 Email: *(opcional)*
+
+---
+
+⭐ *Sempre aberto a aprender, evoluir e contribuir com projetos reais.*
+
