@@ -16,8 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.simpleicons.org/insomnia/4000BF" height="40" alt="Insomnia"/>
-  <img src="https://cdn.simpleicons.org/notion/000000" height="40" alt="Notion"/>
-  <img src="https://cdn.simpleicons.org/safari/006CFF" height="40" alt="Safari"/>
+ <img src="https://cdn.simpleicons.org/safari/006CFF" height="40" alt="Safari"/>
 </p>
 ---
 
