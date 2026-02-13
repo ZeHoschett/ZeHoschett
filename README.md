@@ -44,7 +44,6 @@ Tenho experiência com organização, disciplina e constância  valores que trag
 - Lógica analítica
 - Visualização de dados
 - Spring Boot
-- Excel
 
 ### Desenvolvimento
 - Lógica de Programação
