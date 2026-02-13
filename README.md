@@ -1,15 +1,26 @@
 # 👋 Olá, eu sou o José Hoschett
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-📊 Em transição de carreira para
+📊 Em transição de carreira
 🚀 Focado em evolução contínua, disciplina e construção de projetos reais  
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou um profissional em transição para a área de tecnologia, com forte base analítica, raciocínio lógico e mentalidade orientada a resultados.  
-Atualmente estudo desenvolvimento, dados e automação, aplicando o aprendizado em projetos práticos voltados para **análise de dados, programação e otimização de processos**.
+Sou estudante de Análise e Desenvolvimento de Sistemas em transição de carreira, busco desenvolvimento back-end
+e áreas correlatas de tecnologia. Possuo sólida base em Java e Spring Boot, complementada por conhecimentos em
+Python, C e JavaScript, aplicados em projetos acadêmicos e pessoais voltados à construção de APIs, automação de
+processos e soluções backend escaláveis e bem arquitetadas.
+Tenho experiência prática em análise de dados, modelagem de dados, implementação de lógica de negócio e
+resolução estruturada de problemas. 
+Minha vivência anterior em ambientes industriais desenvolveu competências valiosas como pensamento analítico,
+atenção rigorosa aos detalhes, capacidade de trabalhar sob pressão e disciplina técnica na execução de tarefas.
+Busco uma oportunidade de estágio onde possa aplicar e aprofundar conhecimentos em Java Python e ecossistema
+Spring, absorver boas práticas de desenvolvimento, dominar ferramentas de versionamento (Git/GitHub),
+implementar testes automatizados e compreender arquiteturas modernas (microsserviços, APIs, bancos de dados
+relacionais e NoSQL). Estou comprometido em contribuir de forma consistente e proativa com o time, agregando
+valor em um ambiente profissional desafiador.**.
 
 Tenho experiência com organização, disciplina e constância  valores que trago tanto da minha rotina pessoal quanto da minha trajetória profissional.
 
@@ -18,18 +29,22 @@ Tenho experiência com organização, disciplina e constância  valores que trag
 ## 🛠️ Tecnologias & Ferramentas
 
 ### Linguagens
+- Java 
 - Python
 - SQL
 - C#
 - JavaScript
 - HTML| CSS
+- N8N
 
 
 ### Dados & BI
 - Análise de Dados
 - Consultas SQL
 - Lógica analítica
-- Visualização de dados (conceitos)
+- Visualização de dados
+- Spring Boot
+- Excel
 
 ### Desenvolvimento
 - Lógica de Programação
@@ -40,7 +55,7 @@ Tenho experiência com organização, disciplina e constância  valores que trag
 ### Ferramentas
 - Git & GitHub
 - VS Code
-- Excel / Planilhas Automatizadas
+- Excel
 - Power BI (Iniciante)
 
 ---
@@ -49,7 +64,7 @@ Tenho experiência com organização, disciplina e constância  valores que trag
 
 - 📊 Análise de Dados
 - 📈 Business Intelligence (BI)
-- 🤖 Inteligência Artificial (base e fundamentos)
+- 🤖 Inteligência Artificial 
 - ⚙️ Automação de Processos
 - 🌐 Desenvolvimento Web
 
@@ -60,7 +75,7 @@ Tenho experiência com organização, disciplina e constância  valores que trag
 
 - Conquistar minha **primeira oportunidade na área de tecnologia**
 - Evoluir tecnicamente
-- Atuar profissionalmente
+- Atuar profissionalmente com tecnologia
 
 ---
 
@@ -72,6 +87,16 @@ Tenho experiência com organização, disciplina e constância  valores que trag
 - Aprendizado rápido
 - Foco em resultados
 - Resolução de problemas
+
+## 💡 Hard Skills
+
+- Lógica de Programação
+- Linguagens de Programação
+- Desenvolvimento de APIs
+- Versionamento com Git
+
+
+
 
 
 
