@@ -46,68 +46,65 @@ Estou comprometido em contribuir de forma proativa e consistente, agregando valo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL"/>
 </p>
 
-### ⚙️ Backend & Desenvolvimento
-- Spring Boot
-- APIs REST
-- Lógica de Programação
-- Estruturas de Dados
-- Paradigmas de Programação
+## 💻 Backend & Desenvolvimento
 
-### 📊 Dados & BI
-- Análise de Dados
-- Consultas SQL
-- Modelagem de Dados
-- Visualização de Dados
-- Power BI (Iniciante)
-- Excel
-
-### 🔧 Ferramentas
-- Git & GitHub
-- VS Code
-- IntelleJ
-- N8N
+- ☕ Spring Boot  
+- 🌐 APIs REST  
+- 🧠 Lógica de Programação  
+- 🏗️ Estruturas de Dados  
+- 🔄 Paradigmas de Programação  
 
 ---
 
-## 📌 Áreas de Interesse
+## 📊 Dados & BI
 
 - 📊 Análise de Dados  
-- 📈 Business Intelligence (BI)  
-- 🤖 Inteligência Artificial  
-- ⚙️ Automação de Processos  
-- 🌐 Desenvolvimento Web (Backend)  
+- 🗄️ Consultas SQL  
+- 🧩 Modelagem de Dados  
+- 📈 Visualização de Dados  
+- 📊 Power BI (Iniciante)  
+- 📑 Excel  
 
 ---
 
-## 🚀 Objetivos
+## 🛠️ Ferramentas
 
-- Conquistar minha **primeira oportunidade na área de tecnologia**
-- Evoluir tecnicamente de forma consistente
-- Construir projetos robustos e escaláveis
-- Atuar profissionalmente com desenvolvimento backend e dados
-
----
-
-## 💡 Soft Skills
-
-- Pensamento analítico  
-- Disciplina e constância  
-- Organização  
-- Aprendizado rápido  
-- Foco em resultados  
-- Resolução de problemas  
+- 🔀 Git & GitHub  
+- 💻 VS Code  
+- 💡 IntelliJ IDEA  
+- 🤖 N8N  
 
 ---
 
-## 💪 Hard Skills
+## 🎯 Objetivos
 
-- Lógica de Programação  
-- Desenvolvimento de APIs REST  
-- Modelagem de Dados  
-- Versionamento com Git & GitHub  
-- SQL e Banco de Dados Relacional  
+- 🚀 Conquistar minha primeira oportunidade em tecnologia  
+- 📈 Evoluir tecnicamente de forma consistente  
+- 💻 Atuar profissionalmente com Backend e Dados  
 
 ---
+
+## 🧠 Soft Skills
+
+- 🧠 Pensamento analítico  
+- 📌 Disciplina e constância  
+- 📂 Organização  
+- ⚡ Aprendizado rápido  
+- 🎯 Foco em resultados  
+- 🛠️ Resolução de problemas  
+
+---
+
+## 💻 Hard Skills
+
+- 🧠 Lógica de Programação  
+- 🌐 Desenvolvimento de APIs REST  
+- 🗄️ Banco de Dados Relacional  
+- 🔀 Versionamento com Git  
+- 📊 SQL  
+
+---
+
 
 
 
