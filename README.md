@@ -48,7 +48,7 @@ Estou comprometido em contribuir de forma proativa e consistente, agregando valo
 
 ## 💻 Backend & Desenvolvimento
 
-- ☕ Spring Boot  
+- ☕ SpringBoot  
 - 🌐 APIs REST  
 - 🧠 Lógica de Programação  
 - 🏗️ Estruturas de Dados  
