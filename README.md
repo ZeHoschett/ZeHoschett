@@ -1,98 +1,112 @@
-# 👋 Olá, eu sou o José Hoschett
+# 👋 Olá, eu sou José Hoschett
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-📊 Em transição de carreira
+📊 Em transição de carreira  
 🚀 Focado em evolução contínua, disciplina e construção de projetos reais  
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas em transição de carreira, busco desenvolvimento back-end
-e áreas correlatas de tecnologia. Possuo sólida base em Java e Spring Boot, complementada por conhecimentos em
-Python, C e JavaScript, aplicados em projetos acadêmicos e pessoais voltados à construção de APIs, automação de
-processos e soluções backend escaláveis e bem arquitetadas.
-Tenho experiência prática em análise de dados, modelagem de dados, implementação de lógica de negócio e
-resolução estruturada de problemas. 
-Minha vivência anterior em ambientes industriais desenvolveu competências valiosas como pensamento analítico,
-atenção rigorosa aos detalhes, capacidade de trabalhar sob pressão e disciplina técnica na execução de tarefas.
-Busco uma oportunidade de estágio onde possa aplicar e aprofundar conhecimentos em Java Python e ecossistema
-Spring, absorver boas práticas de desenvolvimento, dominar ferramentas de versionamento (Git/GitHub),
-implementar testes automatizados e compreender arquiteturas modernas (microsserviços, APIs, bancos de dados
-relacionais e NoSQL). Estou comprometido em contribuir de forma consistente e proativa com o time, agregando
-valor em um ambiente profissional desafiador.**.
+Sou estudante de Análise e Desenvolvimento de Sistemas, em transição de carreira, com foco em desenvolvimento **Back-End** e áreas correlatas da tecnologia.
 
-Tenho experiência com organização, disciplina e constância  valores que trago tanto da minha rotina pessoal quanto da minha trajetória profissional.
+Possuo base sólida em **Java** e **Spring Boot**, complementada por conhecimentos em **Python, C#, JavaScript e SQL**, aplicados em projetos acadêmicos e pessoais voltados à construção de APIs, automação de processos e soluções backend escaláveis.
+
+Tenho experiência prática em:
+
+- Análise e modelagem de dados  
+- Implementação de lógica de negócio  
+- Desenvolvimento de APIs REST  
+- Resolução estruturada de problemas  
+
+Minha vivência anterior em ambientes industriais desenvolveu competências como pensamento analítico, atenção rigorosa aos detalhes, disciplina técnica e capacidade de trabalhar sob pressão.
+
+Busco uma oportunidade de **estágio em tecnologia**, onde eu possa:
+
+- Aprofundar conhecimentos em Java e ecossistema Spring  
+- Aplicar boas práticas de desenvolvimento  
+- Trabalhar com Git/GitHub em ambiente colaborativo  
+- Implementar testes automatizados  
+- Compreender arquiteturas modernas (microsserviços, APIs REST, bancos relacionais e NoSQL)
+
+Estou comprometido em contribuir de forma proativa e consistente, agregando valor ao time e evoluindo tecnicamente todos os dias.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### Linguagens
-- Java 
+### 💻 Linguagens
+- Java
 - Python
 - SQL
 - C#
 - JavaScript
-- HTML| CSS
-- N8N
+- HTML & CSS
 
-
-### Dados & BI
-- Análise de Dados
-- Consultas SQL
-- Lógica analítica
-- Visualização de dados
+### ⚙️ Backend & Desenvolvimento
 - Spring Boot
-
-### Desenvolvimento
+- APIs REST
 - Lógica de Programação
 - Estruturas de Dados
 - Paradigmas de Programação
 
+### 📊 Dados & BI
+- Análise de Dados
+- Consultas SQL
+- Modelagem de Dados
+- Visualização de Dados
+- Power BI (Iniciante)
+- Excel
 
-### Ferramentas
+### 🔧 Ferramentas
 - Git & GitHub
 - VS Code
-- Excel
-- Power BI (Iniciante)
+- IntelleJ
+- N8N
 
 ---
 
 ## 📌 Áreas de Interesse
 
-- 📊 Análise de Dados
-- 📈 Business Intelligence (BI)
-- 🤖 Inteligência Artificial 
-- ⚙️ Automação de Processos
-- 🌐 Desenvolvimento Web
-
+- 📊 Análise de Dados  
+- 📈 Business Intelligence (BI)  
+- 🤖 Inteligência Artificial  
+- ⚙️ Automação de Processos  
+- 🌐 Desenvolvimento Web (Backend)  
 
 ---
 
 ## 🚀 Objetivos
 
 - Conquistar minha **primeira oportunidade na área de tecnologia**
-- Evoluir tecnicamente
-- Atuar profissionalmente com tecnologia
+- Evoluir tecnicamente de forma consistente
+- Construir projetos robustos e escaláveis
+- Atuar profissionalmente com desenvolvimento backend e dados
 
 ---
 
 ## 💡 Soft Skills
 
-- Pensamento analítico
-- Disciplina e constância
-- Organização
-- Aprendizado rápido
-- Foco em resultados
-- Resolução de problemas
+- Pensamento analítico  
+- Disciplina e constância  
+- Organização  
+- Aprendizado rápido  
+- Foco em resultados  
+- Resolução de problemas  
 
-## 💡 Hard Skills
+---
 
-- Lógica de Programação
-- Linguagens de Programação
-- Desenvolvimento de APIs
-- Versionamento com Git
+## 💪 Hard Skills
+
+- Lógica de Programação  
+- Desenvolvimento de APIs REST  
+- Modelagem de Dados  
+- Versionamento com Git & GitHub  
+- SQL e Banco de Dados Relacional  
+
+---
+
+
 
 
 
