@@ -16,24 +16,43 @@
 
 <br/>
 
-## 🚀 Sobre mim
+🚀 Sobre mim
 
-**Zé**, por aqui — estudante do **4º semestre de Análise e Desenvolvimento de Sistemas**, em transição de carreira para a área de tecnologia.
+** Estudante do **4º semestre de Análise e Desenvolvimento de Sistemas**, em transição de carreira para a área de tecnologia.
 
 Venho de uma trajetória fora da TI e estou construindo minha base em **Python, Java e COBOL**, com foco em Backend e Mainframe.
 
-Atualmente estou aprofundando conhecimentos em **SQL, Docker e Git/GitHub**, além de reforçar fundamentos através de cursos práticos na Alura.
+Atualmente estou aprofundando conhecimentos em Mainframe e COBOL, além de reforçar fundamentos através de cursos práticos na Alura.
 
-Meu objetivo é simples: escrever código limpo, construir software confiável e crescer como desenvolvedor que entrega sistemas sólidos.
+Meu objetivo é simples: escrever código limpo, construir software confiável e crescer como profissional que entrega sistemas sólidos.
 
-<!-- ESCREVA AQUI SUA HISTÓRIA DE CARREIRA E TRANSIÇÃO -->
-<!--
-  [Ex: Comecei minha carreira como operador de torno CNC, onde desenvolvi
-  precisão, atenção aos detalhes e disciplina com processos. Durante esse
-  tempo, percebi minha paixão por tecnologia e decidi migrar de área...
-  Conte aqui sua trajetória, os desafios, o que te motivou a mudar de
-  carreira e onde você quer chegar.]
--->
+ 🔧 De onde eu vim
+
+Minha carreira começou no chão de fábrica, como **Preparador e Operador de Centro de Usinagem CNC**. 
+Ao longo dos anos, atuei também como **operador de torno CNC**, passando por responsabilidades que 
+foram muito além de operar máquinas: programação de comandos CNC, confirmação de qualidade, gestão 
+de pequenas equipes e acompanhamento de produção junto à engenharia e ao setor técnico.
+
+Foi nesse ambiente que desenvolvi disciplina, atenção extrema aos detalhes e uma obsessão por 
+**erro zero** — características que hoje aplico diretamente na forma como escrevo e revido código.
+
+
+Decidi migrar de área e comecei do zero: hoje curso o 4º semestre de Análise e Desenvolvimento 
+de Sistemas  e venho construindo minha base técnica através de estudo intenso e prático, 
+somando uma trilha extensa na Alura incluindo Java Backend (POO, coleções, APIs REST, 
+Spring Framework, Spring Data JPA), Git/GitHub, Redes e Protocolos e meus primeiros passos em COBOL.
+
+### 🎯 Projeto atual
+
+Estou conduzindo um projeto autoral de especialização em COBOL/Mainframe, com um roteiro de 
+estudo estruturado em fases, usando documentação oficial da IBM, o curso gratuito da Open Mainframe 
+Project e referências brasileiras da área. O objetivo é claro: unir a precisão que trouxe da 
+indústria com a lógica de programação, mirando minha **primeira oportunidade em TI** com foco em 
+ambientes mainframe.
+
+Hoje sigo trabalhando na indústria enquanto estudo encarando essa transição como um processo 
+sério, técnico e de longo prazo, não como um atalho !
+
 
 <br/>
 
