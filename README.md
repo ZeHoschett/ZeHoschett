@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.jpg" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Oi 👋, eu sou o Zé</h1>
 
 <h3 align="center">Backend Developer</h3>
