@@ -75,7 +75,7 @@ Meu objetivo é simples: escrever código limpo, construir software confiável e
 </p>
 
 <br/>
-
+ 
 ## 📈 Gráfico de Atividade
 
 <p align="center">
