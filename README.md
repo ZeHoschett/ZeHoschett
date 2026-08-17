@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Construindo sistemas backend confiáveis, com arquitetura limpa e soluções escaláveis.
+  Construindo sistemas confiáveis, com arquitetura limpa e soluções escaláveis.
 </p>
 
 <br/>
@@ -75,5 +75,6 @@ Hoje sigo trabalhando na indústria enquanto estudo, encarando essa transição 
 <br/>
 
 <p align="center">
-  ⭐ Obrigado por visitar meu perfil! Bora codar? 🚀
+  ⭐ Obrigado por visitar meu perfil!
+  🚀
 </p>
