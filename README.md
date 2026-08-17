@@ -4,7 +4,7 @@
 
 <h1 align="center">Prazer, me chamo José</h1>
 
-<h3 align="center">Backend Developer</h3>
+<h3 align="center"> Developer</h3>
 
 <p align="center">
   <i>Code. Build. Ship.</i>
