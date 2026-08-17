@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./-assets/banner.jpg-" alt="Banner" width="100%" />
+  <img src="./banner.jpg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Prazer me chamo José </h1>
