@@ -40,7 +40,7 @@ Decidi migrar de área e comecei do zero: hoje curso o 4º semestre de Análise 
 
 Estou conduzindo um projeto autoral de especialização em COBOL/Mainframe, com um roteiro de estudo estruturado em fases, utilizando documentação oficial da IBM, o curso gratuito da Open Mainframe Project e referências brasileiras da área. O objetivo é claro: unir a precisão que trouxe da indústria com a lógica de programação, mirando minha primeira oportunidade em TI com foco em ambientes mainframe.
 
-Hoje sigo trabalhando na indústria enquanto estudo, encarando essa transição como um processo sério, técnico e de longo prazo — não como um atalho.
+Hoje sigo trabalhando na indústria enquanto estudo, encarando essa transição como um processo sério, técnico e de longo prazo não como um atalho.
 
 <br/>
 
