@@ -40,7 +40,7 @@ Decidi migrar de área e comecei do zero: hoje curso o 4º semestre de Análise 
 
 Estou conduzindo um projeto autoral de especialização em COBOL/Mainframe, com um roteiro de estudo estruturado em fases, utilizando documentação oficial da IBM, o curso gratuito da Open Mainframe Project e referências brasileiras da área. O objetivo é claro: unir a precisão que trouxe da indústria com a lógica de programação, mirando minha primeira oportunidade em TI com foco em ambientes mainframe.
 
-Hoje sigo trabalhando na indústria enquanto estudo, encarando essa transição como um processo sério, técnico e de longo prazo não como um atalho.
+Hoje sigo trabalhando na indústria enquanto estudo, encarando essa transição como um processo sério, técnico e de longo prazo — não como um atalho.
 
 <br/>
 
@@ -70,27 +70,6 @@ Hoje sigo trabalhando na indústria enquanto estudo, encarando essa transição 
   <img src="https://img.shields.io/badge/COBOL-1A1A1A?style=for-the-badge&logo=cobol&logoColor=white" />
   <img src="https://img.shields.io/badge/IBM_Mainframe-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/IBM_Z-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-</p>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeHoschett&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeHoschett&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeHoschett&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
-<br/>
-
-## 📈 Gráfico de Atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeHoschett&theme=tokyo-night&hide_border=true" alt="Gráfico de contribuições" />
 </p>
 
 <br/>
