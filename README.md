@@ -30,7 +30,7 @@ Meu objetivo é claro: escrever código limpo, construir software confiável e c
 
 Minha carreira começou no chão de fábrica, como **Preparador e Operador de Centro de Usinagem CNC**. Ao longo dos anos, atuei também como **operador de torno CNC**, assumindo responsabilidades que foram muito além de operar máquinas: programação de comandos CNC, confirmação de qualidade, gestão de pequenas equipes e acompanhamento de produção junto à engenharia e ao setor técnico.
 
-Foi nesse ambiente que desenvolvi disciplina, atenção extrema aos detalhes e uma busca constante por **erro zero** — características que hoje aplico diretamente na forma como escrevo e reviso código.
+Foi nesse ambiente que desenvolvi disciplina, atenção extrema aos detalhes e uma busca constante por **erro zero** características que hoje aplico diretamente na forma como escrevo e reviso código.
 
 ### 💻 A virada para tecnologia
 
