@@ -33,8 +33,9 @@ Foi nesse ambiente que desenvolvi disciplina, atenção extrema aos detalhes e u
 
 ###  A virada para tecnologia
 
-Decidi migrar de área e comecei do zero: 
-Hoje curso o 4º semestre de Análise e Desenvolvimento de Sistemas e venho construindo minha base técnica através de estudo intenso e prático, somando uma trilha extensa na Alura, incluindo Java Backend (POO, coleções, APIs REST, Spring Framework, Spring Data JPA), Git/GitHub, Redes e Protocolos, e meus primeiros passos em COBOL.
+Decidi migrar de área e comecei do zero:
+
+Hoje curso o 4º semestre de Análise e Desenvolvimento de Sistemas e venho construindo minha base técnica através de estudo intenso e prático, somando uma trilha extensa na Alura, incluindo Java Backend (POO, coleções, APIs REST, Spring Framework, Spring Data JPA), Git/GitHub, Redes e Protocolos, e meus passos em COBOL.
 
 
 Hoje sigo trabalhando na indústria enquanto estudo, encarando essa transição como um processo sério, técnico e de longo prazo não como um atalho.
